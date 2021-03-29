@@ -1,0 +1,10 @@
+
+Per fer funcionar la app és necessari Servidor NodeJS,
+
+  1. a CMD, cd <path directori> ... o bé a VSCode, Menú Terminal-new, i situar al directori.
+
+  2. executar el npm install (que descarregarà els paquets dins el directori de la app).
+
+  3. executar el npm start .
+
+Ja podrem provar la app amb index.html
